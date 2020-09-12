@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIStudentSecurity", "APIStudentSecurity\APIStudentSecurity.csproj", "{D531AE9A-138C-4B95-B124-0B841DA16449}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "admStudentSecurity", "admStudentSecurity\admStudentSecurity.csproj", "{D3A24643-C70C-4CEA-AA45-2CCC0D979071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSecurity.Tests", "StudentSecurity.Tests\StudentSecurity.Tests.csproj", "{192C4007-ABD5-489E-B4D3-3A09CD7231DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D531AE9A-138C-4B95-B124-0B841DA16449}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D531AE9A-138C-4B95-B124-0B841DA16449}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D531AE9A-138C-4B95-B124-0B841DA16449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A24643-C70C-4CEA-AA45-2CCC0D979071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A24643-C70C-4CEA-AA45-2CCC0D979071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A24643-C70C-4CEA-AA45-2CCC0D979071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A24643-C70C-4CEA-AA45-2CCC0D979071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192C4007-ABD5-489E-B4D3-3A09CD7231DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192C4007-ABD5-489E-B4D3-3A09CD7231DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192C4007-ABD5-489E-B4D3-3A09CD7231DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192C4007-ABD5-489E-B4D3-3A09CD7231DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
